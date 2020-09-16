@@ -1,5 +1,5 @@
 # Portfólio
-Alguns domínios desenvolvidos
+Alguns domínios desenvolvidos que estão em produção ou em testes
 
 
 http://www.bureaudemidia.com.br/

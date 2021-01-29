@@ -1,13 +1,10 @@
 # Portfólio
-Alguns sites desenvolvidos que estão em produção ou em testes
+Alguns sites desenvolvidos que estão em produção ou em testes: <br/>
 
-. http://www.bureaudemidia.com.br/
-
-. https://providasmedicina.com.br/
-
-. https://mangotour.herokuapp.com/
-
-. http://vicentecosta.org.br/
+* <a href="http://www.bureaudemidia.com.br/"> Bureau de Mídia </a> <br/>
+* <a href="https://mangotour.herokuapp.com/"> Projeto Mango Tour </a> <br/>
+* <a href="http://vicentecosta.org.br/"> Escola Vicente Costa </a> <br/>
+* <a href="https://confident-heisenberg-8cacd1.netlify.app/"> Empresas Fratelli </a> <br/>
 
 
 
